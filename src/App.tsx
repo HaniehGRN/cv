@@ -54,7 +54,7 @@ const educationItems: WorkItem[] = [
 function App() {
   return (
     <div>
-      <div className="grid grid-cols-1 gap-4 mx-auto p-5 max-w-6xl md:grid-cols-3">
+      <div className="grid grid-cols-1 gap-4 mx-auto p-5 max-w-7xl md:grid-cols-3">
         {/* profile */}
         <Profile />
         {/* work experience */}
